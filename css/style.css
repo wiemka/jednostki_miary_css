@@ -34,3 +34,12 @@ html {
 #vw {
     width: 60vw
 }
+#vh{
+    width: 60vh
+}
+#vmin{
+    width: 60vmin
+}
+#vmax{
+    width: 60vmax
+}
