@@ -1,17 +1,17 @@
-html{
+html {
     font-size: 20px;
 }
 
-#container{
+#container {
     font-size: 30px;
 }
 
-#container > div{
+#container>div {
     background-color: aqua;
     margin-bottom: 10px
 }
 
-#pixele{
+#pixele {
     width: 500px
 }
 
@@ -19,12 +19,10 @@ html{
     width: 10em;
 }
 
-#ex{
+#ex {
     width: 10ex;
 }
 
-
-
-
-
-
+#rem{
+    width: 10rem;
+}
