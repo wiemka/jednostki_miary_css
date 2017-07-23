@@ -23,10 +23,14 @@ html {
     width: 10ex;
 }
 
-#rem{
+#rem {
     width: 10rem;
 }
 
-#procent{
+#procent {
     width: 40%
+}
+
+#vw {
+    width: 60vw
 }
